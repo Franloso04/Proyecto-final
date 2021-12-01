@@ -1,4 +1,4 @@
-# Proyecto-final 1ºer trimestre 
+# Proyecto-final 1º trimestre PyC
 Realiza una agenda de teléfonos que te muestre el siguiente menú:
 
 1- Añadir contacto
